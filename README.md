@@ -30,6 +30,7 @@ Any C++ compiler such as:
 ```bash
 g++ basic.cpp -o basic
 
+```
 ## RUN
 ./basic
 
